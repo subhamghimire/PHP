@@ -1,4 +1,4 @@
-#PHP CRUD(Create, Read, Update, Delete)<br>
+#PHP CRUD(Create, Read, Update, Delete)<br> <br>
 1.install Xampp server on your computer<br>
 2.clone this repository and paste it in C:/xampp/htdocs<br>
 3.start apache and mysql <br>
